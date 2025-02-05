@@ -21,24 +21,18 @@ The system ensures proper validation, debt handling, and session management.
 
 Ensure you have Node.js installed.
 
-Clone this repository:
+## Clone this repository
 
-```bash
 git clone <repository_url>
 cd atm-cli
-```
 
-Install dependencies:
+## Install dependencies:
 
-```bash
 npm install
-```
 
-Run the application:
+## Run the application:
 
-```bash
 ./start.sh
-```
 
 ## Commands
 
