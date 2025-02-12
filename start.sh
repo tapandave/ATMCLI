@@ -1,3 +1,3 @@
 #!/bin/bash
 npm install
-npx ts-node index.ts
+npx ts-node app/index.ts
